@@ -14,7 +14,7 @@
 <body background="background.png" link="#0000CC" vlink="#000066" alink="#000000">
 <h1>Test</h1>
 
-<p>Dies ist eine ganz einfache Homepage.
+<p>Dies ist eine ganz einfache Homepage.(mit kleiner Veränderung)
 </p>
 
 <div id="impressum">
